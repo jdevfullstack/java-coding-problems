@@ -9,9 +9,9 @@ technical interviews, as I experienced it myself.
 
 It's the convenience of the Codespaces online!
 Simply create a Codespace, you don't need to install
-anything, just simply run it at the Bash Terminal
+anything, just simply run using Bash.
 
-you can now run it even without compiling !
+Also starting Java 11, you can now run it even without compiling !
 
 ```
 cd src
