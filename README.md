@@ -40,3 +40,34 @@ but I'm still including his link for his copyright.
 
 When you copy my work, include the author's link 
 and my MIT license for my modifications.
+
+## Sources
+[Binary Search](https://github.com/jdevstatic/java-coding-problems/blob/main/src/BinarySearch.java)
+
+[Checking Palindrome](https://github.com/jdevstatic/java-coding-problems/blob/main/src/CheckPalindromeString.java)
+
+[Inheritance](https://github.com/jdevstatic/java-coding-problems/tree/main/src/inheritance)
+
+[Integer Array Sum](https://github.com/jdevstatic/java-coding-problems/blob/main/src/IntegerArraySum.java)
+
+[Merge Sort](https://github.com/jdevstatic/java-coding-problems/blob/main/src/MergeSort.java)
+
+[Prime Number Checker](https://github.com/jdevstatic/java-coding-problems/blob/main/src/PrimeNumberCheck.java)
+
+[Fibonacci Series](https://github.com/jdevstatic/java-coding-problems/blob/main/src/PrintFibonacciSeries.java)
+
+[Remove A Character](https://github.com/jdevstatic/java-coding-problems/blob/main/src/RemoveAChar.java)
+
+[Remove Whitespaces](https://github.com/jdevstatic/java-coding-problems/blob/main/src/RemoveWhiteSpaces.java)
+
+[Reverse A Linked List](https://github.com/jdevstatic/java-coding-problems/blob/main/src/ReverseALinkedList.java)
+
+[Reverse A String](https://github.com/jdevstatic/java-coding-problems/blob/main/src/ReverseString.java)
+
+[Shuffle Array](https://github.com/jdevstatic/java-coding-problems/blob/main/src/ShuffleArray.java)
+
+[Sort Array](https://github.com/jdevstatic/java-coding-problems/blob/main/src/SortArray.java)
+
+[Check Vowels](https://github.com/jdevstatic/java-coding-problems/blob/main/src/StringContainsVowels.java)
+
+
