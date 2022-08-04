@@ -35,7 +35,7 @@ This is based on :
 
 https://www.journaldev.com/370/java-programming-interview-questions
 
-I don't know about the specific licensed the author used
+I don't know about the specific license the author used
 but I'm still including his link for his copyright.
 
 When you copy my work, include the author's link 
