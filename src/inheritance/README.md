@@ -2,7 +2,7 @@
 In order to implement inheritance,
 it needs to be separated in one folder,
 
-so 
+so if you are in `src` folder,
 
 ```
 cd inheritance
