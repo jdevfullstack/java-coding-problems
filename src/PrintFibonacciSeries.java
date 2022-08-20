@@ -10,6 +10,7 @@ public class PrintFibonacciSeries {
 		b = c;
 		c = a + b;
 	}
+	System.out.println("");
 }
 
 	public static void main(String args[]) {
