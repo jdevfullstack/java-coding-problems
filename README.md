@@ -39,19 +39,7 @@ this is the interface of the online Codespaces
 
 enjoy !
 
-## License
-
-This is based on :
-
-https://www.journaldev.com/370/java-programming-interview-questions
-
-I don't know about the specific license the author used
-but I'm still including his link for his copyright.
-
-When you copy my work, include the author's link 
-and my MIT license for my modifications.
-
-## Sources
+## Source Code
 [Binary Search](https://github.com/jdevstatic/java-coding-problems/blob/main/src/BinarySearch.java)
 
 [Checking Palindrome](https://github.com/jdevstatic/java-coding-problems/blob/main/src/CheckPalindromeString.java)
@@ -80,4 +68,13 @@ and my MIT license for my modifications.
 
 [Check Vowels](https://github.com/jdevstatic/java-coding-problems/blob/main/src/StringContainsVowels.java)
 
+## License
+This is based on :
 
+https://www.journaldev.com/370/java-programming-interview-questions
+
+I don't know about the specific license the author used
+but I'm still including his link for his copyright.
+
+When you copy my work, include the author's link 
+and my MIT license for my modifications.
