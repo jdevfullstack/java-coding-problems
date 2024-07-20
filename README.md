@@ -7,6 +7,16 @@ Hello.
 These are the most coding problems during
 technical interviews, as I experienced it myself.
 
+## Disclaimer
+Please note that these projects are presented as a showcase of my work during a 
+specific period. They represent a snapshot of my skills and accomplishments 
+at that time. As such, these projects are no longer actively maintained or updated. 
+They are kept public for demonstration purposes and may not reflect my current 
+abilities or the latest best practices in the field. 
+
+However, feel free to learn from these archived projects, 
+preserved as they were during that specific period !
+
 ## Running The Code
 
 It's the convenience of the Codespaces online!
