@@ -40,33 +40,23 @@ this is the interface of the online Codespaces
 enjoy !
 
 ## Source Code
-[Binary Search](https://github.com/jdevstatic/java-coding-problems/blob/main/src/BinarySearch.java)
 
-[Checking Palindrome](https://github.com/jdevstatic/java-coding-problems/blob/main/src/CheckPalindromeString.java)
-
-[Inheritance](https://github.com/jdevstatic/java-coding-problems/tree/main/src/inheritance)
-
-[Integer Array Sum](https://github.com/jdevstatic/java-coding-problems/blob/main/src/IntegerArraySum.java)
-
-[Merge Sort](https://github.com/jdevstatic/java-coding-problems/blob/main/src/MergeSort.java)
-
-[Prime Number Checker](https://github.com/jdevstatic/java-coding-problems/blob/main/src/PrimeNumberCheck.java)
-
-[Fibonacci Series](https://github.com/jdevstatic/java-coding-problems/blob/main/src/PrintFibonacciSeries.java)
-
-[Remove A Character](https://github.com/jdevstatic/java-coding-problems/blob/main/src/RemoveAChar.java)
-
-[Remove Whitespaces](https://github.com/jdevstatic/java-coding-problems/blob/main/src/RemoveWhiteSpaces.java)
-
-[Reverse A Linked List](https://github.com/jdevstatic/java-coding-problems/blob/main/src/ReverseALinkedList.java)
-
-[Reverse A String](https://github.com/jdevstatic/java-coding-problems/blob/main/src/ReverseString.java)
-
-[Shuffle Array](https://github.com/jdevstatic/java-coding-problems/blob/main/src/ShuffleArray.java)
-
-[Sort Array](https://github.com/jdevstatic/java-coding-problems/blob/main/src/SortArray.java)
-
-[Check Vowels](https://github.com/jdevstatic/java-coding-problems/blob/main/src/StringContainsVowels.java)
+| Problem                | Link                                                                                      |
+|------------------------|-------------------------------------------------------------------------------------------|
+| Binary Search          | [View](https://github.com/jdevstatic/java-coding-problems/blob/main/src/BinarySearch.java) |
+| Checking Palindrome    | [View](https://github.com/jdevstatic/java-coding-problems/blob/main/src/CheckPalindromeString.java) |
+| Inheritance            | [View](https://github.com/jdevstatic/java-coding-problems/tree/main/src/inheritance)      |
+| Integer Array Sum      | [View](https://github.com/jdevstatic/java-coding-problems/blob/main/src/IntegerArraySum.java) |
+| Merge Sort             | [View](https://github.com/jdevstatic/java-coding-problems/blob/main/src/MergeSort.java)    |
+| Prime Number Checker   | [View](https://github.com/jdevstatic/java-coding-problems/blob/main/src/PrimeNumberCheck.java) |
+| Fibonacci Series       | [View](https://github.com/jdevstatic/java-coding-problems/blob/main/src/PrintFibonacciSeries.java) |
+| Remove A Character     | [View](https://github.com/jdevstatic/java-coding-problems/blob/main/src/RemoveAChar.java)  |
+| Remove Whitespaces     | [View](https://github.com/jdevstatic/java-coding-problems/blob/main/src/RemoveWhiteSpaces.java) |
+| Reverse A Linked List  | [View](https://github.com/jdevstatic/java-coding-problems/blob/main/src/ReverseALinkedList.java) |
+| Reverse A String       | [View](https://github.com/jdevstatic/java-coding-problems/blob/main/src/ReverseString.java) |
+| Shuffle Array          | [View](https://github.com/jdevstatic/java-coding-problems/blob/main/src/ShuffleArray.java) |
+| Sort Array             | [View](https://github.com/jdevstatic/java-coding-problems/blob/main/src/SortArray.java)    |
+| Check Vowels           | [View](https://github.com/jdevstatic/java-coding-problems/blob/main/src/StringContainsVowels.java) |
 
 ## License
 This is based on :
