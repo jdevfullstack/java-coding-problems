@@ -69,6 +69,10 @@ but I'm still including his link for his copyright.
 When you copy my work, include the author's link 
 and my MIT license for my modifications.
 
+## More Java Projects
+for more Java discussion and other details, 
+check the Main Page -> [Java](https://github.com/jdevfullstack/java)
+
 ## More Of My Content
 - [jdevfullstack Profile](https://github.com/jdevfullstack)
 - [jdevfullstack Repos](https://github.com/jdevfullstack?tab=repositories)
