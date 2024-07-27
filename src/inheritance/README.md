@@ -12,7 +12,7 @@ then, we need to compile it first
 since we will be using another class
 
 ```
-java Animal.java Cat.java
+javac Animal.java Cat.java
 ```
 
 then 
