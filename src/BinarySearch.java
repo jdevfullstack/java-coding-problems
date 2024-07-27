@@ -22,7 +22,7 @@ public class BinarySearch {
     public static void main(String[] args) {
         int intArray[] = {7, 8, 9};
 
-        int key = 5;
+        int key = 8;
 
         if (binarySearch(intArray, 0, 5, key) != -1) {
 
