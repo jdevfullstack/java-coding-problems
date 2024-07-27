@@ -13,6 +13,11 @@ It's the convenience of the Codespaces online!
 Simply create a Codespace, you don't need to install
 anything, just simply run using Bash.
 
+First step is to fork this repo, once there, click Code,
+and if you have the Codespaces, you will see like this :
+
+![image](https://github.com/user-attachments/assets/580e8844-5476-4b7a-a133-0e378656096a)
+
 Also starting Java 11, you can now run it even without compiling !
 
 ```
