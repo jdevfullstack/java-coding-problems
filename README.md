@@ -1,40 +1,46 @@
 # Java Coding Problems
 
-*`updated July 26, 2024`*
+*`updated July 28, 2024`*
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjdevstatic%2Fjava-coding-problems&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
 
-These are the most coding problems during
+These are the most common coding problems being asked during
 technical interviews, as I experienced it myself.
 
 ## Running The Code
+It's the convenience of Codespaces online! Simply create a Codespace, you don't need to install anything, just run using Bash.
 
-It's the convenience of the Codespaces online!
-Simply create a Codespace, you don't need to install
-anything, just simply run using Bash.
+### Steps to Run the Code
+1. **Fork the Repository**:
+   - Navigate to the repository you want to fork.
+   - Click the "Fork" button at the top right corner of the page.
 
-First step is to fork this repo, once there, click Code,
-and if you have the Codespaces, you will see like this :
+2. **Create a Codespace**:
+   - Go to your forked repository.
+   - Click the "Code" button.
+   - Select "Open with Codespaces" from the dropdown menu.
+   - If you have Codespaces enabled, you will see an interface like this:
+   ![Codespaces](https://github.com/user-attachments/assets/580e8844-5476-4b7a-a133-0e378656096a)
 
-![image](https://github.com/user-attachments/assets/580e8844-5476-4b7a-a133-0e378656096a)
+3. **Navigate to the Source Directory**:
+   - Open the terminal in Codespaces.
+   - Change the directory to `src`:
+     ```bash
+     cd src
+     ```
 
-Also starting Java 11, you can now run it even without compiling !
+4. **Run the Java File**:
+   - Starting with Java 11, you can run Java files without compiling them first. Use the following command:
 
-```
-cd src
-```
+     ```bash
+     java [NameOfTheFile].java
+     ```
 
-then 
+this is the sample interface of the online Codespaces 
 
-```
-java [NameOfTheFile].java
-```
+![Codespaces Interface](https://user-images.githubusercontent.com/47092464/182785921-838bd0e5-2707-4e08-8a0b-9127afba6866.png)
 
-this is the interface of the online Codespaces
-
-![image](https://user-images.githubusercontent.com/47092464/182785921-838bd0e5-2707-4e08-8a0b-9127afba6866.png)
-
-enjoy !
+enjoy!
 
 ## Source Code
 1. **Binary Search**
